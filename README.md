@@ -1,6 +1,6 @@
 # QR Code Project
 
-This is a Python project that generates QR Codes from URLs.
+This is a Python project that generates QR Codes from URLs .
 
 ## Features
 - Generate QR codes from links
